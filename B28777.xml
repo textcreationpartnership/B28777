@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the Honourable House of Commons, why no farther duty or excise be laid upon wines.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28777</idno><idno type="EEBO-CITATION">99885660</idno>
+  <idno type="VID">185496</idno>
+  <idno type="EEBO-PROQUEST">2240890882</idno>
+  
+            <idno type="STC">Wing R558V</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.14[43]</idno>
+            <idno type="STC">ESTC R224794</idno>
+            <idno type="STC">ESTC R224807</idno>
+            <idno type="PROQUEST">ocm99885660</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885660e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185496)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:3[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the Honourable House of Commons, why no farther duty or excise be laid upon wines.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In this edtion line 1 of the text ends 'Growth' and the catchword p.1 is: 'X. That'.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Taxation --  Early works to 1800.</term>
+               <term type="topical_term">Wine and wine making --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185496:1"/>
+            <pb n="1" facs="tcp:185496:1"/>
+            <head>REASONS Humbly Offered to the <hi>Honourable House of Commons.</hi>
+            </head>
+            <head type="sub">Why no farther Duty or Excise be laid upon Wines.</head>
+            <p n="1">I. THAT most of the Wines now Imported are of the Growth and Dominions of <hi>Spain</hi> and <hi>Portugal,</hi> Friends and Alleys to the Crown of <hi>England.</hi>
+            </p>
+            <p n="2">II. That they are the Product of English Manufactures entirely.</p>
+            <p n="3">III. That the Dominions of <hi>Spain</hi> and <hi>Portugal</hi> give Consumption to the greatest part of our English Manufactures, <hi>viz.</hi> Bayes, Sayes, Serges, Porpetu<g ref="char:EOLhyphen"/>anes, Cloth, Kersyes, Hose, Hats; All sorts of <hi>Norwich</hi>-Stuffs, <hi>Welch</hi>-Cottons, and Plaines, and many other Commodities.</p>
+            <p n="4">IV. That the Duty on Wine is already, 18 <hi>l. per</hi> Tun. For which Reason, the Trade with great difficulty bears it.</p>
+            <p n="5">V. That on the Spanish Wines there is generally Lost every Year, and more-especially the last, in the Canary-Trade, to the Value of 30000. <hi>l.</hi>
+            </p>
+            <p n="6">VI. That the <hi>Portugal</hi> Wines proving generally bad this Year, and more Im<g ref="char:EOLhyphen"/>ported, and Coming, then can be Consumed, will occasion a Loss in the Gene<g ref="char:EOLhyphen"/>ral, of at least 4 <hi>l. per</hi> Tun, and on particular Persons, from 16 to 24 <hi>l.</hi> where<g ref="char:EOLhyphen"/>by not onely the Fraight of 8 and 10 <hi>l. per</hi> Tun, but the Principal is Lost.</p>
+            <p n="7">VII. That this extraordinary Duty of 12 <hi>l. per</hi> Tun now intended to be laid, will lessen, instead of Augmenting the King's Customs, for the higher any Commo<g ref="char:EOLhyphen"/>dity is rais'd, the consumption will be the less, and Consequently the Importation lesser, which will have a double Influence; not only on this now intended Duty, but on the old too, and this Branch of the Revennue sinking; how far it will Post-pone the Loanes on Wine and Vinegar, may be worth Enquiry.</p>
+            <p n="8">VIII. That it will put the <hi>Spaniards</hi> and <hi>Portugues</hi> on doing the like on our Manufactures, or which may be worse, Prohibit their Importation, by setting up Manufactures of their own.</p>
+            <p n="9">IX. That if we do not Import the Fruites of <hi>Spain</hi> and <hi>Portugal,</hi> they cannot buy our Manufactures; so both must sink, the Revenue of the Crown be lost, and the Poor imployed in both Kingdoms undone.</p>
+            <pb n="2" facs="tcp:185496:2"/>
+            <p n="10">X. That the laying the Great Duty on <hi>Brazil Sugars,</hi> was a Total Pro<g ref="char:EOLhyphen"/>hibition of that Commodity; and gave occasion for the King of <hi>Portugal</hi> to Prohibit the Importation of Cloth, and other Goods into his Domini<g ref="char:EOLhyphen"/>ons.</p>
+            <p n="11">XI. That the Wine Traders in the City of <hi>London,</hi> where the greatest part of the Wines are Imported, are but a 100 Men, on whom this heavy Tax of 140000 <hi>l. per Annum</hi> will fall; and by that, and the great Credit they give the Vintners, they will be incapacitated to Trade.</p>
+            <p n="12">XII. That to lay it on the Vintners, is equally the same thing; for they being generally in Merchants Debts, cannot be able to pay it. More espe<g ref="char:EOLhyphen"/>cially, being liable to the King's Extent; can have no further Credit, and it will have the dismal effect to ruin and undo most of the Merchants and Vintners.</p>
+            <p n="13">XIII. That the Merchants, Proposers of this Project, being design'd Far<g ref="char:EOLhyphen"/>mers, will first Ruin the Fair Traders, and afterwards Monopolize the lit<g ref="char:EOLhyphen"/>tle Trade remaining to themselves.</p>
+            <p n="14">XIV. That with this new intended Duty the Custom will be 30 <hi>l. per</hi> Tun, and give encouragement to the Corruption of Officers to defraud the King of his Customs, and steal the whole Duty; a Practice formerly used by some Ill Men.</p>
+            <p n="15">XV. That if this new Duty should be laid, it will force Merchants to send many of the Ships (now expected home) to <hi>Holland, Hamburgh,</hi> and the <hi>Baltick,</hi> where little or no Duty is paid; which they will the rather choose to do, than to Import here, to pay this heavy Duty, which must be trusted on such uncertain terms to the Vintners; and to this end, some Orders are gone to the <hi>Downs</hi> and other Ports already.</p>
+            <p>To Sum up all, it will endanger the Trade itself; for if this heavy Du<g ref="char:EOLhyphen"/>ty is laid, and a Peace with <hi>France</hi> should ensue, it will be a means to introduce the <hi>French</hi> Wine-Trade again; and throw out that of the <hi>Spanish</hi> and <hi>Portugal,</hi> to the great Damage of this Nation; for the Project it self from those intended Farmers, looks like a French Trick, and instead of ad<g ref="char:EOLhyphen"/>vancing the King's Revenue, will really lessen it.</p>
+            <p>Therefore it is humbly hoped, The Honourable <hi>House of Commons</hi> will not suffer the Bill to pass.</p>
+            <pb facs="tcp:185496:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
